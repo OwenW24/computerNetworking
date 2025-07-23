@@ -13,5 +13,4 @@ This repository will contain my notes and various projects whilst learning about
 
 ### Projects
 
-- [Web Server](webServer)
-git
+- [Web Server](webServer)  
